@@ -1,13 +1,13 @@
-package com.dailycodebuffer.springdatajpa.springdatajpa.tutorial;
+package com.springdatajpa.tutorial;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringdatajpaTutorialApplication {
+public class SpringDataJpaTutorialApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringdatajpaTutorialApplication.class, args);
+		SpringApplication.run(SpringDataJpaTutorialApplication.class, args);
 	}
 
 }
