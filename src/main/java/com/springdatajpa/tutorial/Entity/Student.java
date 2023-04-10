@@ -1,4 +1,4 @@
-package com.dailycodebuffer.springdatajpa.springdatajpa.tutorial.Entity;
+package com.springdatajpa.tutorial.Entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -9,8 +9,8 @@ import javax.persistence.*;
 
 @Entity
 @Data
-@AllArgsConstructor
 @NoArgsConstructor
+@AllArgsConstructor
 @Builder
 @Table(
         name = "tbl_student",

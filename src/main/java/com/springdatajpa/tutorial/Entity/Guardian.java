@@ -1,4 +1,4 @@
-package com.dailycodebuffer.springdatajpa.springdatajpa.tutorial.Entity;
+package com.springdatajpa.tutorial.Entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
